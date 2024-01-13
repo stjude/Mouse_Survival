@@ -1,4 +1,4 @@
-# Mouse_Survival
+# Pre-infection cerebral cortex structure predicts murine polymicrobial sepsis outcome
 
 
 
