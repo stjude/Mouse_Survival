@@ -4,6 +4,6 @@
 
 ### Methods
 
-To predict a murine LD50 polymicrobial sepsis, we process our MRI images using [DeepBrainIPP](https://www.frontiersin.org/articles/10.3389/fbinf.2022.865443/full ) 
+To predict a murine LD50 polymicrobial sepsis, we process our MRI images using [DeepBrainIPP](https://www.frontiersin.org/articles/10.3389/fbinf.2022.865443/full ). First, we update DeepBrainIPP model with ourdataset to perform skull Stripping. Then we perform images registration and morphological analysis. Finally, we build predictive models with measured morphologies. 
 
 ![MRI Reconstruction](data/pic.jpg?raw=true "Mouse Survival")
