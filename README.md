@@ -12,4 +12,4 @@ To predict a murine LD50 polymicrobial sepsis, we process our MRI images using [
 We shared the complete data on morphological measurements as well as a python scripts (see "scripts folder") with step by step description on how models were built. The details can be found in our manuscripts (under review).
 
 ### Contact
-Please feel free to contact (salam@stjude.org, rgallant@salk.edu) if you have questions
+Please feel free to contact (shahinur.alam0424@gmail.com, rmgallant5@gmail.com) if you have questions
